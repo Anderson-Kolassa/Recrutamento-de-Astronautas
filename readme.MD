@@ -12,7 +12,7 @@ Exercício de fixação no módulo de Bootstrap do curso Full Stack Javascript d
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Formulario" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,5 +29,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um formulário para fazer o recrutamento dos melhores astronautas disponíveis para ir a Marte.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://anderson-kolassa.github.io/Recrutamento-de-Astronautas/)
 
